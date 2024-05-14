@@ -1,0 +1,7 @@
+{
+  "name": "AS4-Assignment3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
